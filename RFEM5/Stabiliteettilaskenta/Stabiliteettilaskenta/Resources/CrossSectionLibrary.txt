@@ -1,0 +1,123 @@
+Rolled I: {RfProfile : (IPE 80 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 100 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 120 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 140 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 160 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 180 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 200 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 220 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 240 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 270 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 300 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 330 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 360 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 400 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 450 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 500 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 550 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IPE 600 | Euronorm 19-57), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 100 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 120 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 160 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 180 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 200 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 220 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 240 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 260 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 280 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 300 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 320 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 340 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 360 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 400 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 450 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 500 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 550 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 600 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 650 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 700 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 800 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 900 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE A 1000 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 100 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 120 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 140 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 160 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 180 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 200 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 220 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 240 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 260 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 280 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 300 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 320 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 340 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 360 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 400 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 450 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 500 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 550 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 600 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 650 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 700 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 800 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 900 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE B 1000 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 100 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 120 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 140 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 160 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 180 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 200 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 220 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 240 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 260 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 280 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 320/305 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 300 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 320 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 340 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 360 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 400 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 450 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 500 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 550 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 600 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 650 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 700 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 800 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 900 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HE M 1000 | Euronorm 53-62), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 20x2 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 25x2 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 25x2.5 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 25x3 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 30x2 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 30x2.5 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 40x2 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 40x2.5 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 40x3 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 40x4 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 50x2 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 50x2.5 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 50x3 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 50x4 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 50x5 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (RRO 40x20x2 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (RRO 40x20x2.5 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (RRO 40x20x3 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (RRO 50x30x2 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (RRO 50x30x2.5 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (RRO 50x30x3 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (RRO 50x30x4 | EN 10219-2:2006), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (IS 500/200/10/25/12), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (TO 500/200/10/10/20/20), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (BOX(A) 500/25/10/400/800/500/25/12/12), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (BOX(B) 500/25/10/800/400/20/20/10/10), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (HR 500/25/800/10/400/300), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (Rectangle 500/800), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (FB 800/500/200/300), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (Circle 680), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (T-Rectangle 500/800), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (RD 32), TeklaProfile : [Unknown]}
+Rolled I: {RfProfile : (QRO 20x2 | EN 10219-2:2006), TeklaProfile : [Unknown]}

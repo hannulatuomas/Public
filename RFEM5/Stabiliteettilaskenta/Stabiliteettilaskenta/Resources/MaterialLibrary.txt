@@ -1,0 +1,6 @@
+Steel : {RfMaterial : (Steel S 235 | SFS EN 1993-1-1:2005), TeklaMaterial : [Unknown]}
+Steel : {RfMaterial : (Steel S 275 | SFS EN 1993-1-1:2005), TeklaMaterial : [Unknown]}
+Steel : {RfMaterial : (Steel S 355 | SFS EN 1993-1-1:2005), TeklaMaterial : [Unknown]}
+Steel : {RfMaterial : (Concrete C25/30 | EN 1992-1-1:2004/A1:2014), TeklaMaterial : [Unknown]}
+Steel : {RfMaterial : (Concrete C30/37 | EN 1992-1-1:2004/A1:2014), TeklaMaterial : [Unknown]}
+Steel : {RfMaterial : (Glulam Timber GL30c | SFS EN 14080:2013-08), TeklaMaterial : [Unknown]}

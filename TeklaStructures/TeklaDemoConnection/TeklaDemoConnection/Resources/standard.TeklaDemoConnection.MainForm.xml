@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Type>0</Type>
+  <cItem>0</cItem>
+  <bItem>0</bItem>
+  <ShowWarnings>false</ShowWarnings>
+  <CreateReinforcement>0</CreateReinforcement>
+  <BeamCoverTLeft>25</BeamCoverTLeft>
+  <BeamCoverTBottom>25</BeamCoverTBottom>
+  <BeamCoverTTop>25</BeamCoverTTop>
+  <BeamCoverTRight>25</BeamCoverTRight>
+  <CountryStandard>3</CountryStandard>
+  <LoadClass>2</LoadClass>
+  <PcsAttributeFile>0</PcsAttributeFile>
+  <PcAttributeFile>0</PcAttributeFile>
+  <ShoeAnchorDist>0</ShoeAnchorDist>
+  <BottomHeight>100</BottomHeight>
+  <LColumnCoverThick>30</LColumnCoverThick>
+  <CUBarClass>502</CUBarClass>
+  <CStirrupClass>506</CStirrupClass>
+  <CUBarGrade>B500B</CUBarGrade>
+  <CUBarName>LISÄTERÄS</CUBarName>
+  <CUBarStartNumber>1</CUBarStartNumber>
+  <CUBarPrefix></CUBarPrefix>
+  <CStirrupGrade>B500B</CStirrupGrade>
+  <CStirrupName>HAKA</CStirrupName>
+  <CStirrupSrtNmb>1</CStirrupSrtNmb>
+  <CStirrupPrefix></CStirrupPrefix>
+  <BUBarClass>502</BUBarClass>
+  <BStirrupClass>506</BStirrupClass>
+  <BUBarGrade>B500B</BUBarGrade>
+  <BUBarName>LISÄTERÄS</BUBarName>
+  <BUBarStartNumber>1</BUBarStartNumber>
+  <BUBarPrefix></BUBarPrefix>
+  <BStirrupGrade>B500B</BStirrupGrade>
+  <BStirrupName>HAKA</BStirrupName>
+  <BStirrupSrtNmb>1</BStirrupSrtNmb>
+  <BStirrupPrefix></BStirrupPrefix>
+  <NumberingType>0</NumberingType>
+</config>

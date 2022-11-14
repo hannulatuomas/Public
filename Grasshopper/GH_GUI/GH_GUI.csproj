@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{19F68E07-12E4-47BF-B299-B155F0FC8FFA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GH_GUI</RootNamespace>
+    <AssemblyName>GH_GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Eto, Version=2.6.0.0, Culture=neutral, PublicKeyToken=552281e97c755530, processorArchitecture=MSIL">
+      <HintPath>..\..\GH_GetRFemResults\packages\RhinoCommon.7.13.21348.13001\lib\net48\Eto.dll</HintPath>
+    </Reference>
+    <Reference Include="GH_IO, Version=7.13.21348.13000, Culture=neutral, PublicKeyToken=6a29997d2e6b4f97, processorArchitecture=MSIL">
+      <HintPath>..\..\GH_GetRFemResults\packages\Grasshopper.7.13.21348.13001\lib\net48\GH_IO.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Grasshopper, Version=7.13.21348.13000, Culture=neutral, PublicKeyToken=dda4f5ec2cd80803, processorArchitecture=MSIL">
+      <HintPath>..\..\GH_GetRFemResults\packages\Grasshopper.7.13.21348.13001\lib\net48\Grasshopper.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Rhino.UI, Version=7.13.21348.13000, Culture=neutral, PublicKeyToken=552281e97c755530, processorArchitecture=MSIL">
+      <HintPath>..\..\GH_GetRFemResults\packages\RhinoCommon.7.13.21348.13001\lib\net48\Rhino.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="RhinoCommon, Version=7.13.21348.13000, Culture=neutral, PublicKeyToken=552281e97c755530, processorArchitecture=MSIL">
+      <HintPath>..\..\GH_GetRFemResults\packages\RhinoCommon.7.13.21348.13001\lib\net48\RhinoCommon.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GH_GUI\EvaluationUnit.cs" />
+    <Compile Include="GH_GUI\EvaluationUnitContext.cs" />
+    <Compile Include="GH_GUI\EvaluationUnitManager.cs" />
+    <Compile Include="GH_GUI\ExtendedPlug.cs" />
+    <Compile Include="GH_GUI\GH_Attr_Widget.cs" />
+    <Compile Include="GH_GUI\GH_ExtendableComponent.cs" />
+    <Compile Include="GH_GUI\GH_ExtendableComponentAttributes.cs" />
+    <Compile Include="GH_GUI\GH_ExtendableMenu.cs" />
+    <Compile Include="GH_GUI\GH_MenuCollection.cs" />
+    <Compile Include="GH_GUI\GH_MenuPanel.cs" />
+    <Compile Include="GH_GUI\GH_MenuSliderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GH_GUI\GH_SwitchAction.cs" />
+    <Compile Include="GH_GUI\GH_SwitcherComponent.cs" />
+    <Compile Include="GH_GUI\GH_SwitcherComponentAttributes.cs" />
+    <Compile Include="GH_GUI\MenuCheckBox.cs" />
+    <Compile Include="GH_GUI\MenuDropDown.cs" />
+    <Compile Include="GH_GUI\MenuDropDownWindow.cs" />
+    <Compile Include="GH_GUI\MenuDropItem.cs" />
+    <Compile Include="GH_GUI\MenuRadioButton.cs" />
+    <Compile Include="GH_GUI\MenuRadioButtonGroup.cs" />
+    <Compile Include="GH_GUI\MenuScrollBar.cs" />
+    <Compile Include="GH_GUI\MenuSlider.cs" />
+    <Compile Include="GH_GUI\MenuStaticText.cs" />
+    <Compile Include="GH_GUI\MenuTextBox.cs" />
+    <Compile Include="GH_GUI\RuntimeComponentData.cs" />
+    <Compile Include="GH_GUI\SubComponent.cs" />
+    <Compile Include="GH_GUI\ValueChangeEventHandler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\..\GH_GetRFemResults\packages\RhinoCommon.7.13.21348.13001\build\RhinoCommon.targets" Condition="Exists('..\..\GH_GetRFemResults\packages\RhinoCommon.7.13.21348.13001\build\RhinoCommon.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\GH_GetRFemResults\packages\RhinoCommon.7.13.21348.13001\build\RhinoCommon.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\GH_GetRFemResults\packages\RhinoCommon.7.13.21348.13001\build\RhinoCommon.targets'))" />
+    <Error Condition="!Exists('..\..\GH_GetRFemResults\packages\Grasshopper.7.13.21348.13001\build\Grasshopper.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\GH_GetRFemResults\packages\Grasshopper.7.13.21348.13001\build\Grasshopper.targets'))" />
+  </Target>
+  <Import Project="..\..\GH_GetRFemResults\packages\Grasshopper.7.13.21348.13001\build\Grasshopper.targets" Condition="Exists('..\..\GH_GetRFemResults\packages\Grasshopper.7.13.21348.13001\build\Grasshopper.targets')" />
+</Project>

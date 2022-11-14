@@ -1,0 +1,34 @@
+﻿<Window x:Class="IntegerToRomanConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IntegerToRomanConverter"
+        mc:Ignorable="d"
+        Title="Integer to Roman converter" Height="200" Width="350" WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="0 10" >
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Input:" Grid.Column="0" Margin="25 5" />
+            <TextBox x:Name="Textbox_Input" Text="1" Grid.Column="1" Margin="5,5,25,5" VerticalAlignment="Center" HorizontalAlignment="Stretch" TextChanged="Textbox_Input_TextChanged" TextAlignment="Center" FontFamily="Tahoma" />
+
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Output:" Grid.Column="0" Margin="25 5" />
+            <TextBox x:Name="Textbox_Output" Text="I" Grid.Column="1" Margin="5,5,25,5" VerticalAlignment="Center" HorizontalAlignment="Stretch" IsReadOnly="True" TextAlignment="Center" FontFamily="Tahoma" />
+
+        </Grid>
+
+        <Button x:Name="Button_Convert" Content="Convert" Margin="25 30" Height="30" Click="Button_Convert_Click" />
+    </StackPanel>
+</Window>
